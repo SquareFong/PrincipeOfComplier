@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/NFAtoDFA.h
+queue
+-
+map
+-
+iostream
+-
+RegexToNFA.h
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/RegexToNFA.h
+
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/RegexToNFA.h
+vector
+-
+set
+-
+string
+-
+
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/main.cpp
+iostream
+-
+RegexToNFA.h
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/RegexToNFA.h
+NFAtoDFA.h
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/NFAtoDFA.h
+map
+-
+

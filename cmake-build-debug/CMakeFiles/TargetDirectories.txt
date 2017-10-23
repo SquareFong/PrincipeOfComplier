@@ -1,0 +1,3 @@
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/square/CLionProjects/PrincipleOfComplier_FirstProgram/cmake-build-debug/CMakeFiles/PrincipleOfComplier_FirstProgram.dir
