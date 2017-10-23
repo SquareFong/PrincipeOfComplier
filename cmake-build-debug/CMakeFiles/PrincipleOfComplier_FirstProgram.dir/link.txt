@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/PrincipleOfComplier_FirstProgram.dir/main.cpp.o  -o PrincipleOfComplier_FirstProgram 
